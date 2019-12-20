@@ -1,6 +1,7 @@
 # Développer avec Ionic sans Framework JavaScript (Vanilla JS)
 
-![](/assets/vanilla_js_logo.jpeg)
+![Logo Vanilla JS](assets/vanilla_js_logo.jpeg "Logo Vanilla JS")
+
 
 Historiquement, Ionic s'est toujours appuyé sur Angular pour la réalisation d'applications mobiles. Avec la version 4, la donne a totalement changé, car il est désormais possible de développer en Ionic...sans Framework JavaScript (Angular, React,...).
 
@@ -116,7 +117,8 @@ On obtient le beau résultat suivant :
 
 Je suis un bouton | Hello ! |
 --- | --- |
-![](assets/ionic_vanilla_js.png) | ![](assets/ionic_vanilla_js_2.png) |
+![Bouton Ionic Vanilla JS](assets/ionic_vanilla_js.jpeg "Bouton Ionic Vanilla JS") | ![Hello World](assets/ionic_vanilla_js_2.jpeg "Bouton Ionic Vanilla JS") |
+
 
 Si vous souhaitez rajouter d'autres composants Ionic, rien de plus simple.
 
@@ -125,7 +127,7 @@ Depuis la (documentation officielle)[https://ionicframework.com/docs/api/], vous
 Affichons par exemple une fenêtre modale à notre petite application.
 Pour cela, on récupère le code JavaScript du composant à l'adresse : https://ionicframework.com/docs/api/modal
 
-![](assets/ionic_vanilla_js_3.png)
+![](assets/ionic_vanilla_js_3.jpeg)
 
 On va pouvoir l'adapter un peu pour afficher nos propres informations, à savoir une liste de framework :
 
