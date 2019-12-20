@@ -2,7 +2,6 @@
 
 ![Logo Vanilla JS](assets/vanilla_js_logo.jpeg "Logo Vanilla JS")
 
-
 Historiquement, Ionic s'est toujours appuyé sur Angular pour la réalisation d'applications mobiles. Avec la version 4, la donne a totalement changé, car il est désormais possible de développer en Ionic...sans Framework JavaScript (Angular, React,...).
 
 Oui, juste en pure JavaScript (ou Vanilla JS pour les intimes).
@@ -65,6 +64,12 @@ Au passage, nous rajouterons quelques métadonnées pour rendre notre applicatio
 
   <!-- Import des icones Ionic  (Optionnel) -->
   <script src="https://unpkg.com/ionicons@latest/dist/ionicons.js"></script>
+
+  <!--
+  les Customs Elements ne sont pas reconnu dans certaines versions de navigateur.
+  Il faut donc les importer
+  -->
+  <script src="https://unpkg.com/@webcomponents/custom-elements"></script>
 
 </head>
 
@@ -187,7 +192,7 @@ On va pouvoir l'adapter un peu pour afficher nos propres informations, à savoir
               <ion-list>
                   <ion-item>
                     <ion-avatar slot="start">
-                      <ion-img src="./assets/logo-angular.jpg"/>
+                      <ion-img src=".assets/logo-angular.jpg"/>
                     </ion-avatar>
                     <ion-label>
                       <h2>Angular</h2>
@@ -196,7 +201,7 @@ On va pouvoir l'adapter un peu pour afficher nos propres informations, à savoir
                   </ion-item>
                   <ion-item>
                       <ion-avatar slot="start">
-                      <ion-img src="./assets/logo-react.jpeg"/>
+                      <ion-img src=".assets/logo-react.jpeg"/>
                       </ion-avatar>
                       <ion-label>
                         <h2>React</h2>
