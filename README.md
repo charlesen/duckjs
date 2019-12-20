@@ -122,7 +122,7 @@ On obtient le beau résultat suivant :
 
 Je suis un bouton | Hello ! |
 --- | --- |
-![Bouton Ionic Vanilla JS](assets/ionic_vanilla_js.jpeg "Bouton Ionic Vanilla JS") | ![Hello World](assets/ionic_vanilla_js_2.jpeg "Bouton Ionic Vanilla JS") |
+![Bouton Ionic Vanilla JS](assets/ionic_vanilla_js.png "Bouton Ionic Vanilla JS") | ![Hello World](assets/ionic_vanilla_js_2.png "Bouton Ionic Vanilla JS") |
 
 
 Si vous souhaitez rajouter d'autres composants Ionic, rien de plus simple.
@@ -132,7 +132,7 @@ Depuis la (documentation officielle)[https://ionicframework.com/docs/api/], vous
 Affichons par exemple une fenêtre modale à notre petite application.
 Pour cela, on récupère le code JavaScript du composant à l'adresse : https://ionicframework.com/docs/api/modal
 
-![](assets/ionic_vanilla_js_3.jpeg)
+![](assets/ionic_vanilla_js_3.png)
 
 On va pouvoir l'adapter un peu pour afficher nos propres informations, à savoir une liste de framework :
 
