@@ -116,7 +116,7 @@ On obtient le beau résultat suivant :
 
 Je suis un bouton | Hello ! |
 --- | --- |
-![](/assets/ionic_vanilla_js.png) | ![](/assets/ionic_vanilla_js_2.png) |
+![](assets/ionic_vanilla_js.png) | ![](assets/ionic_vanilla_js_2.png) |
 
 Si vous souhaitez rajouter d'autres composants Ionic, rien de plus simple.
 
@@ -125,7 +125,7 @@ Depuis la (documentation officielle)[https://ionicframework.com/docs/api/], vous
 Affichons par exemple une fenêtre modale à notre petite application.
 Pour cela, on récupère le code JavaScript du composant à l'adresse : https://ionicframework.com/docs/api/modal
 
-![](/assets/ionic_vanilla_js_3.png)
+![](assets/ionic_vanilla_js_3.png)
 
 On va pouvoir l'adapter un peu pour afficher nos propres informations, à savoir une liste de framework :
 
@@ -242,8 +242,8 @@ On va pouvoir l'adapter un peu pour afficher nos propres informations, à savoir
 
 Qui donne le résultat :
 
-Je suis un bouton | Hello ! |
+Je suis une fenêtre modale | Hello ! |
 --- | --- |
-![](/assets/ionic_vanilla_js_4.png) | ![](/assets/ionic_vanilla_js_5.png) |
+![](assets/ionic_vanilla_js_4.png) | ![](assets/ionic_vanilla_js_5.png) |
 
 Voilà ! Vous pouvez à présent créez vos applications Ionic avec uniquement du JavaScript ou simplement l'inclure à vos projets web actuels.
