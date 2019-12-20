@@ -253,4 +253,4 @@ Je suis une fenêtre modale | Hello ! |
 --- | --- |
 ![](assets/ionic_vanilla_js_4.png) | ![](assets/ionic_vanilla_js_5.png) |
 
-Voilà ! Vous pouvez à présent créez vos applications Ionic avec uniquement du JavaScript ou simplement l'inclure à vos projets web actuels.
+Voilà ! Vous pouvez à présent créer vos applications Ionic avec uniquement du JavaScript ou simplement l'inclure à vos projets web actuels.
