@@ -8,7 +8,7 @@ Oui, juste en pure JavaScript (ou Vanilla JS pour les intimes).
 
 ## Importer Ionic dans votre projet Web
 
-Supposons notre application ne dispose pour le moment que d'un simple fichier **index.html**. Nous allons pouvoir importer les styles CSS et scripts Ionic pour utiliser les composants du Framework.
+Supposons que notre application ne dispose pour le moment que d'un simple fichier **index.html**. Nous allons pouvoir importer les styles CSS et scripts nécessaires à l'utilisation du Framework Ionic.
 
 **index.html**
 ```html
